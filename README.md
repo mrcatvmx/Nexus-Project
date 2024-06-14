@@ -15,7 +15,7 @@ Telegram: [Cipher_Airdrop](https://t.me/+tFmYJSANTD81MzE1)
 <h1>Readme</h1>
 Cipher_Airdrop aims to assist individuals without coding or Linux expertise. Follow the guide below for a one-click setup of your Nexus Project Deploy B0t.👏😒
 
-🌟NODE GUIDE🌟<br>
+🌟GUIDE🌟<br>
 Step 1: Connect to Your VPS
 
 Step 2: Run the Script<br>
